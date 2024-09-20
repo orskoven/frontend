@@ -1,0 +1,127 @@
+{
+  "hash": "3e28efff",
+  "configHash": "44b39833",
+  "lockfileHash": "a562b966",
+  "browserHash": "637159ea",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "7848a9bd",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "fa50fc11",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "b5cda23e",
+      "needsInterop": false
+    },
+    "@mui/material": {
+      "src": "../../node_modules/@mui/material/index.js",
+      "file": "@mui_material.js",
+      "fileHash": "4c42067a",
+      "needsInterop": false
+    },
+    "axios": {
+      "src": "../../node_modules/axios/index.js",
+      "file": "axios.js",
+      "fileHash": "94ab2acf",
+      "needsInterop": false
+    },
+    "framer-motion": {
+      "src": "../../node_modules/framer-motion/dist/es/index.mjs",
+      "file": "framer-motion.js",
+      "fileHash": "f16b84bd",
+      "needsInterop": false
+    },
+    "formik": {
+      "src": "../../node_modules/formik/dist/formik.esm.js",
+      "file": "formik.js",
+      "fileHash": "8a8d7423",
+      "needsInterop": false
+    },
+    "yup": {
+      "src": "../../node_modules/yup/index.esm.js",
+      "file": "yup.js",
+      "fileHash": "2bc59434",
+      "needsInterop": false
+    },
+    "@mui/material/styles": {
+      "src": "../../node_modules/@mui/material/styles/index.js",
+      "file": "@mui_material_styles.js",
+      "fileHash": "74051f45",
+      "needsInterop": false
+    },
+    "@mui/material/CssBaseline": {
+      "src": "../../node_modules/@mui/material/CssBaseline/index.js",
+      "file": "@mui_material_CssBaseline.js",
+      "fileHash": "9fab0c1e",
+      "needsInterop": false
+    },
+    "@mui/material/colors": {
+      "src": "../../node_modules/@mui/material/colors/index.js",
+      "file": "@mui_material_colors.js",
+      "fileHash": "81f6b744",
+      "needsInterop": false
+    },
+    "@mui/icons-material/Brightness4": {
+      "src": "../../node_modules/@mui/icons-material/esm/Brightness4.js",
+      "file": "@mui_icons-material_Brightness4.js",
+      "fileHash": "e6151475",
+      "needsInterop": false
+    },
+    "@mui/icons-material/Brightness7": {
+      "src": "../../node_modules/@mui/icons-material/esm/Brightness7.js",
+      "file": "@mui_icons-material_Brightness7.js",
+      "fileHash": "b1d9cb8a",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-C6WWHQR7": {
+      "file": "chunk-C6WWHQR7.js"
+    },
+    "chunk-VRWU6DQW": {
+      "file": "chunk-VRWU6DQW.js"
+    },
+    "chunk-5NMSSQNF": {
+      "file": "chunk-5NMSSQNF.js"
+    },
+    "chunk-L64YCFIQ": {
+      "file": "chunk-L64YCFIQ.js"
+    },
+    "chunk-UUHYOPCZ": {
+      "file": "chunk-UUHYOPCZ.js"
+    },
+    "chunk-UHINIFCJ": {
+      "file": "chunk-UHINIFCJ.js"
+    },
+    "chunk-OJEEJCNB": {
+      "file": "chunk-OJEEJCNB.js"
+    },
+    "chunk-ADDYDWL4": {
+      "file": "chunk-ADDYDWL4.js"
+    },
+    "chunk-ZPQ4FJKT": {
+      "file": "chunk-ZPQ4FJKT.js"
+    },
+    "chunk-ZSEW566P": {
+      "file": "chunk-ZSEW566P.js"
+    },
+    "chunk-BGZ4WZNU": {
+      "file": "chunk-BGZ4WZNU.js"
+    },
+    "chunk-W4EHDCLL": {
+      "file": "chunk-W4EHDCLL.js"
+    },
+    "chunk-EWTE5DHJ": {
+      "file": "chunk-EWTE5DHJ.js"
+    }
+  }
+}
